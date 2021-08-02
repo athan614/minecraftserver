@@ -1,4 +1,0 @@
-cobble 1
-stone 1
-log 5
-glowstone x2
