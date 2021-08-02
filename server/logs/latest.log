@@ -1,0 +1,623 @@
+[21:32:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:32:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:32:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[21:32:51] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[21:32:51] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_291, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_291
+[21:32:51] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[21:32:51] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[21:32:51] [main/INFO] [FML]: Searching C:\Users\Myth~Skywar1539\Desktop\server\.\mods for mods
+[21:32:51] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from levelup2-1.5.7.jar
+[21:32:51] [main/WARN] [FML]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:32:51] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[21:32:51] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[21:32:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:32:51] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[21:32:51] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/Myth~Skywar1539/Desktop/server/./mods/levelup2-1.5.7.jar Service=LaunchWrapper Env=SERVER
+[21:32:51] [main/WARN] [FML]: The coremod LevelUpCore (levelup2.core.LevelUpCore) is not signed!
+[21:32:51] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[21:32:51] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[21:32:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:32:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:32:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:32:51] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[21:32:51] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[21:32:51] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[21:32:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:32:52] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[21:32:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:32:52] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:32:52] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[21:32:53] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[21:32:53] [main/INFO] [STDOUT]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[21:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[21:32:53] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@3a3f96ab
+[21:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:32:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:32:53] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[21:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:32:53] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[21:32:53] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[21:32:53] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[21:32:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[21:32:56] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[21:32:56] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[21:32:56] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[21:32:56] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[21:32:56] [Server thread/INFO] [FML]: Searching C:\Users\Myth~Skywar1539\Desktop\server\.\mods for mods
+[21:32:56] [Server thread/INFO] [FML]: Disabling mod backtools it is client side only.
+[21:32:57] [Server thread/INFO] [FML]: Forge Mod Loader has identified 22 mods to load
+[21:32:57] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[21:32:57] [Server thread/WARN] [FML]: Missing English translation for customspawner: assets/customspawner/lang/en_us.lang
+[21:32:57] [Server thread/WARN] [FML]: Missing English translation for mjrlegendslib: assets/mjrlegendslib/lang/en_us.lang
+[21:32:57] [Server thread/WARN] [FML]: Missing English translation for sit: assets/sit/lang/en_us.lang
+[21:32:57] [Server thread/INFO] [FML]: FML has found a non-mod file BackTools-1.12.2-7.0.0.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[21:32:57] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, backpack, biomesoplenty, birdsnests, customspawner, doggytalents, mocreatures, extraplanets, galacticraftplanets, galacticraftcore, ichunutil, levelup2, mjrlegendslib, harvestcraft, sit, bspkrscore, treecapitator, zollerngalaxy] at CLIENT
+[21:32:57] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, backpack, biomesoplenty, birdsnests, customspawner, doggytalents, mocreatures, extraplanets, galacticraftplanets, galacticraftcore, ichunutil, levelup2, mjrlegendslib, harvestcraft, sit, bspkrscore, treecapitator, zollerngalaxy] at SERVER
+[21:32:57] [Server thread/ERROR] [FML]: The mod backpack is expecting signature @FINGERPRINT@ for source backpack-3.0.2-1.12.2.jar, however there is no signature matching that description
+[21:32:57] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[21:32:57] [Server thread/INFO] [FML]: Found 1395 ObjectHolder annotations
+[21:32:57] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[21:32:57] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[21:32:57] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[21:32:57] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:32:58] [Server thread/WARN] [biomesoplenty]: There was an issue retrieving trail info from remote!
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Beginning Pre-Initilization phase...
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Could not detect mod: cofhcore
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Could not detect mod: thermalexpansion
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Could not detect mod: thermalfoundation
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Could not detect mod: thermaldynamics
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Could not detect mod: bigreactors
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Could not detect mod: moreplanets
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Detected mod: extraplanets
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Could not detect mod: planetprogression
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Could not detect mod: powersuits
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Could not detect mod: mca
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Mod information load completed.
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 44 lore books.
+[21:33:00] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2855
+[21:33:00] [Forge Version Check/INFO] [forge.VersionCheck]: [doggytalents] Starting version check at https://raw.githubusercontent.com/percivalalb/DoggyTalents/master/version.json
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 131 new items.
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 253 new blocks.
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Beginning Fluid Registry...
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 4 new fluids.
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 39 new biomes.
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 8 new star systems.
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 11 new planets.
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 0 new moons.
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 11 new space stations.
+[21:33:00] [Server thread/INFO] [Zollern Galaxy]: Pre-Init phase complete.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsmercury dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 4 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsjuptier dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 5 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssaturn dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 6 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsuranus dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 7 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsneptune dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 8 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetspluto dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 9 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetseris dungeon spawner`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetstier 10 treasure chest`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 2 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tier 3 landing pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `powered charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `rocket charging pad full`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit fake`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedrefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimaterefinery`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetssolar panel`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvanced oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen compressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimate oxygen decompressor`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decrystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic crystallizer`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic smasher`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic chemical injector`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic solar evaporation chamber`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic purifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic decontamination unit`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsadvancedfuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsultimatefuelloader`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsbasic densifier`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:01] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `extraplanetsvehiclechanger`, expected `extraplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:02] [Server thread/INFO] [Treecapitator]: Proceeding to load tree/mod configs from file.
+[21:33:02] [Server thread/INFO] [FML]: Applying holder lookups
+[21:33:02] [Server thread/INFO] [FML]: Holder lookups applied
+[21:33:02] [Server thread/INFO] [Backpack]: Loading items...
+[21:33:02] [Server thread/INFO] [Backpack]: 15 item features loaded.
+[21:33:02] [Server thread/INFO] [FML]: Applying holder lookups
+[21:33:02] [Server thread/INFO] [FML]: Holder lookups applied
+[21:33:02] [Server thread/INFO] [mocreatures]: Registering entities...
+[21:33:02] [Server thread/INFO] [mocreatures]: Entity registration complete.
+[21:33:02] [Server thread/INFO] [FML]: Applying holder lookups
+[21:33:02] [Server thread/INFO] [FML]: Holder lookups applied
+[21:33:02] [Server thread/INFO] [FML]: Applying holder lookups
+[21:33:02] [Server thread/INFO] [FML]: Holder lookups applied
+[21:33:02] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:33:02] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[21:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[21:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[21:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[21:33:02] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[21:33:03] [Server thread/ERROR] [FML]: Parsing error loading recipe harvestcraft:minecraft_pumpkinseeds
+com.google.gson.JsonSyntaxException: Unknown item 'harvestcraft:harvestpumpkinitem'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(Unknown Source) [?:1.8.0_291]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[21:33:03] [Server thread/ERROR] [FML]: Parsing error loading recipe harvestcraft:minecraft_pumpkinblocks
+com.google.gson.JsonSyntaxException: Unknown item 'harvestcraft:harvestpumpkinitem'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:531) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(Unknown Source) [?:1.8.0_291]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[21:33:03] [Server thread/ERROR] [FML]: Parsing error loading recipe harvestcraft:harvestpumpkinitem
+com.google.gson.JsonSyntaxException: Unknown item 'harvestcraft:harvestpumpkinitem'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(Unknown Source) [?:1.8.0_291]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[21:33:03] [Server thread/INFO] [Backpack]: Loading recipes...
+[21:33:03] [Server thread/INFO] [Backpack]: 15 recipe features loaded.
+[21:33:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:03] [Server thread/WARN] [FML]: Unable to find recipe for minecraft:rabbit_stew
+[21:33:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:03] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:03] [Server thread/WARN] [FML]: Unable to find recipe for minecraft:baked_potato
+[21:33:03] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MorePlanets Compatibility, this is most likey intended!
+[21:33:03] [Server thread/INFO] [FML]: Applying holder lookups
+[21:33:03] [Server thread/INFO] [FML]: Holder lookups applied
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array module`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `gc laser turret`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/INFO] [Zollern Galaxy]: Beginning Initialization phase...
+[21:33:04] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 139 new crafting recipes.
+[21:33:04] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 76 new smelting recipes.
+[21:33:04] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 17 new compressor recipes.
+[21:33:04] [Server thread/INFO] [Zollern Galaxy]: Loaded a total of 16 new mobs.
+[21:33:04] [Server thread/INFO] [Zollern Galaxy]: Init phase complete.
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:ocean;OCEAN;0.5;false;false;false;[OCEAN, WATER]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:plains;MEDIUM;0.8;false;false;false;[PLAINS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:desert;WARM;2.0;false;false;false;[SANDY, HOT, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:extreme_hills;MEDIUM;0.2;false;false;false;[MOUNTAIN, HILLS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:forest;MEDIUM;0.7;false;false;false;[FOREST]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:taiga;MEDIUM;0.25;false;false;false;[CONIFEROUS, COLD, FOREST]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:swampland;MEDIUM;0.8;true;false;false;[SWAMP, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:river;MEDIUM;0.5;false;false;false;[RIVER, WATER]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:hell;WARM;2.0;false;false;false;[HOT, DRY, NETHER]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:sky;MEDIUM;0.5;false;false;false;[END, COLD, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:frozen_ocean;OCEAN;0.0;false;false;true;[COLD, OCEAN, WATER, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:frozen_river;COLD;0.0;false;false;true;[COLD, RIVER, WATER, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:ice_flats;COLD;0.0;false;false;true;[COLD, WASTELAND, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:ice_mountains;COLD;0.0;false;false;true;[COLD, MOUNTAIN, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mushroom_island;MEDIUM;0.9;true;false;false;[MUSHROOM, RARE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mushroom_island_shore;MEDIUM;0.9;true;false;false;[BEACH, MUSHROOM, RARE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:beaches;MEDIUM;0.8;false;false;false;[BEACH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:desert_hills;WARM;2.0;false;false;false;[SANDY, HOT, DRY, HILLS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:forest_hills;MEDIUM;0.7;false;false;false;[FOREST, HILLS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:taiga_hills;MEDIUM;0.25;false;false;false;[CONIFEROUS, COLD, FOREST, HILLS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:smaller_extreme_hills;MEDIUM;0.2;false;false;false;[MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:jungle;MEDIUM;0.95;true;false;false;[JUNGLE, HOT, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:jungle_hills;MEDIUM;0.95;true;false;false;[JUNGLE, HOT, HILLS, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:jungle_edge;MEDIUM;0.95;false;false;false;[JUNGLE, RARE, HOT, FOREST, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:deep_ocean;OCEAN;0.5;false;false;false;[OCEAN, WATER]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:stone_beach;MEDIUM;0.2;false;false;false;[BEACH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:cold_beach;COLD;0.05;false;false;true;[COLD, BEACH, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:birch_forest;MEDIUM;0.6;false;false;false;[FOREST]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:birch_forest_hills;MEDIUM;0.6;false;false;false;[FOREST, HILLS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:roofed_forest;MEDIUM;0.7;false;false;false;[SPOOKY, FOREST, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:taiga_cold;COLD;-0.5;false;false;true;[CONIFEROUS, COLD, FOREST, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:taiga_cold_hills;COLD;-0.5;false;false;true;[CONIFEROUS, COLD, FOREST, HILLS, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:redwood_taiga;MEDIUM;0.3;false;false;false;[CONIFEROUS, COLD, FOREST]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:redwood_taiga_hills;MEDIUM;0.3;false;false;false;[CONIFEROUS, COLD, FOREST, HILLS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:extreme_hills_with_trees;MEDIUM;0.2;false;false;false;[FOREST, SPARSE, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:savanna;WARM;1.2;false;false;false;[PLAINS, HOT, SPARSE, SAVANNA]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:savanna_rock;WARM;1.0;false;false;false;[PLAINS, RARE, HOT, SPARSE, SAVANNA]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mesa;WARM;2.0;false;false;false;[MESA, SANDY, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mesa_rock;WARM;2.0;false;false;false;[MESA, SANDY, SPARSE, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mesa_clear_rock;WARM;2.0;false;false;false;[MESA, SANDY, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:void;MEDIUM;0.5;false;false;false;[VOID]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_plains;MEDIUM;0.8;false;true;false;[PLAINS, RARE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_desert;WARM;2.0;false;true;false;[SANDY, RARE, HOT, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_extreme_hills;MEDIUM;0.2;false;true;false;[RARE, SPARSE, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_forest;MEDIUM;0.7;false;true;false;[RARE, FOREST, HILLS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_taiga;MEDIUM;0.25;false;true;false;[CONIFEROUS, COLD, RARE, FOREST, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_swampland;MEDIUM;0.8;true;true;false;[SWAMP, RARE, HILLS, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_ice_flats;COLD;0.0;false;true;true;[COLD, RARE, HILLS, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_jungle;MEDIUM;0.95;true;true;false;[JUNGLE, RARE, HOT, MOUNTAIN, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_jungle_edge;MEDIUM;0.95;false;true;false;[JUNGLE, RARE, HOT, SPARSE, HILLS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_birch_forest;MEDIUM;0.6;false;true;false;[RARE, FOREST, HILLS, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_birch_forest_hills;MEDIUM;0.6;false;true;false;[RARE, FOREST, MOUNTAIN, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_roofed_forest;MEDIUM;0.7;false;true;false;[SPOOKY, RARE, FOREST, MOUNTAIN, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_taiga_cold;COLD;-0.5;false;true;true;[CONIFEROUS, COLD, RARE, FOREST, MOUNTAIN, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_redwood_taiga;MEDIUM;0.25;false;true;false;[RARE, FOREST, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_redwood_taiga_hills;MEDIUM;0.25;false;true;false;[RARE, FOREST, HILLS, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_extreme_hills_with_trees;MEDIUM;0.2;false;true;false;[RARE, SPARSE, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_savanna;WARM;1.1;false;true;false;[RARE, HOT, SPARSE, DRY, SAVANNA, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_savanna_rock;WARM;1.0;false;true;false;[RARE, HOT, SPARSE, DRY, SAVANNA, HILLS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_mesa;WARM;2.0;false;true;false;[RARE, HOT, SPARSE, DRY, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_mesa_rock;WARM;2.0;false;true;false;[RARE, HOT, SPARSE, DRY, HILLS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: minecraft:mutated_mesa_clear_rock;WARM;2.0;false;true;false;[RARE, HOT, SPARSE, DRY, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:gravel_beach;MEDIUM;0.5;false;false;false;[BEACH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:white_beach;WARM;1.0;true;false;false;[BEACH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:alps;COLD;-0.5;false;false;true;[COLD, DRY, MOUNTAIN, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:bamboo_forest;MEDIUM;0.9;false;false;false;[JUNGLE, FOREST, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:bayou;MEDIUM;0.85;true;false;false;[SWAMP, HOT, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:bog;MEDIUM;0.5;true;false;false;[SWAMP, COLD, FOREST, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:boreal_forest;MEDIUM;0.3;false;false;false;[CONIFEROUS, COLD, FOREST, HILLS, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:brushland;WARM;1.5;false;false;false;[HOT, SPARSE, DRY, SAVANNA]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:chaparral;MEDIUM;0.8;false;false;false;[PLAINS, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:cherry_blossom_grove;MEDIUM;0.55;false;false;false;[MAGICAL, FOREST, LUSH, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:cold_desert;MEDIUM;0.25;false;false;false;[COLD, DRY, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:coniferous_forest;MEDIUM;0.45;false;false;false;[CONIFEROUS, COLD, FOREST, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:crag;MEDIUM;0.5;false;false;false;[COLD, MAGICAL, DRY, MOUNTAIN, HILLS, WASTELAND]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:dead_forest;MEDIUM;0.3;false;false;false;[COLD, DEAD, FOREST, SPARSE, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:dead_swamp;MEDIUM;0.55;true;false;false;[SPOOKY, SWAMP, COLD, DEAD, SPARSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:eucalyptus_forest;MEDIUM;0.85;true;false;false;[JUNGLE, FOREST, LUSH, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:fen;MEDIUM;0.4;false;false;false;[SWAMP, COLD, DEAD, FOREST, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:flower_field;MEDIUM;0.6;false;false;false;[PLAINS, LUSH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:grassland;MEDIUM;0.6;false;false;false;[PLAINS, HILLS, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:grove;MEDIUM;0.55;false;false;false;[PLAINS, FOREST, SPARSE, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:highland;MEDIUM;0.55;false;false;false;[MOUNTAIN, HILLS, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:land_of_lakes;MEDIUM;0.5;true;false;false;[SWAMP, FOREST, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:lavender_fields;MEDIUM;0.7;false;false;false;[PLAINS, MAGICAL, LUSH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:lush_desert;WARM;1.2;false;false;false;[SANDY, HOT, SPARSE, DRY, SAVANNA, LUSH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:lush_swamp;MEDIUM;0.7;true;false;false;[SWAMP, LUSH, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:mangrove;MEDIUM;0.8;false;false;false;[SWAMP, LUSH, DENSE, WATER, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:maple_woods;MEDIUM;0.25;false;false;false;[CONIFEROUS, COLD, FOREST, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:marsh;MEDIUM;0.6;false;false;false;[SWAMP, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:meadow;MEDIUM;0.45;false;false;false;[COLD, PLAINS, FOREST, SPARSE, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:moor;MEDIUM;0.55;true;false;false;[SWAMP, HILLS, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:mountain;MEDIUM;0.5;false;false;false;[FOREST, SPARSE, DRY, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:mystic_grove;MEDIUM;0.6;false;false;false;[MAGICAL, RARE, FOREST, LUSH, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:ominous_woods;MEDIUM;0.45;false;false;false;[SPOOKY, DEAD, MAGICAL, RARE, FOREST, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:orchard;MEDIUM;0.7;false;false;false;[PLAINS, FOREST, LUSH, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:outback;WARM;1.5;false;false;false;[SANDY, HOT, SPARSE, DRY, SAVANNA]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:overgrown_cliffs;MEDIUM;0.95;false;false;false;[JUNGLE, MOUNTAIN, HILLS, LUSH, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:prairie;MEDIUM;0.8;false;false;false;[PLAINS, SPARSE, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:quagmire;MEDIUM;0.55;true;false;false;[SWAMP, DEAD, WASTELAND, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:rainforest;MEDIUM;0.95;true;false;false;[JUNGLE, FOREST, HILLS, LUSH, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:redwood_forest;MEDIUM;0.7;false;false;false;[FOREST, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:sacred_springs;MEDIUM;0.8;true;false;false;[JUNGLE, MAGICAL, RARE, FOREST, LUSH, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:seasonal_forest;MEDIUM;0.4;false;false;false;[COLD, FOREST, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:shield;MEDIUM;0.3;false;false;false;[COLD, FOREST, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:shrubland;MEDIUM;0.6;false;false;false;[PLAINS, SPARSE, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:snowy_coniferous_forest;COLD;-0.25;false;false;true;[CONIFEROUS, COLD, FOREST, DENSE, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:snowy_forest;COLD;-0.25;false;false;true;[COLD, FOREST, SPARSE, SNOWY, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:steppe;MEDIUM;0.75;false;false;false;[PLAINS, SANDY, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:temperate_rainforest;MEDIUM;0.75;true;false;false;[FOREST, LUSH, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:tropical_rainforest;WARM;1.2;true;false;false;[JUNGLE, HOT, LUSH, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:tundra;MEDIUM;0.2;false;false;false;[COLD, DEAD, SPARSE, DRY, WASTELAND]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:wasteland;WARM;2.0;false;false;false;[DEAD, SPARSE, DRY, WASTELAND]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:wetland;MEDIUM;0.6;false;false;false;[SWAMP, FOREST, LUSH, DENSE, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:woodland;MEDIUM;0.7;false;false;false;[FOREST, DRY, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:xeric_shrubland;WARM;1.5;false;false;false;[SANDY, HOT, SPARSE, DRY, SAVANNA, LUSH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:alps_foothills;COLD;-0.5;false;false;true;[COLD, FOREST, SPARSE, DRY, MOUNTAIN, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:mountain_foothills;MEDIUM;0.5;false;false;false;[FOREST, SPARSE, DRY, HILLS, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:glacier;COLD;-0.5;false;false;false;[COLD, WASTELAND, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:oasis;WARM;2.0;false;false;false;[JUNGLE, SANDY, HOT, SPARSE, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:coral_reef;MEDIUM;0.5;false;false;false;[WATER, OCEAN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:kelp_forest;MEDIUM;0.5;false;false;false;[WATER, OCEAN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:origin_island;MEDIUM;0.6;false;false;false;[RARE, FOREST, WATER]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:tropical_island;WARM;1.0;true;false;false;[JUNGLE, LUSH, DENSE, WATER, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:volcanic_island;WARM;1.2;false;false;false;[DEAD, HOT, DRY, MOUNTAIN, WATER, WASTELAND]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:flower_island;MEDIUM;0.6;false;false;false;[PLAINS, MAGICAL, LUSH, DENSE, WATER]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:corrupted_sands;WARM;2.0;false;false;false;[SPOOKY, SANDY, HOT, DRY, NETHER]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:fungi_forest;WARM;2.0;false;false;false;[MUSHROOM, HOT, NETHER, DENSE]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:phantasmagoric_inferno;WARM;2.0;false;false;false;[HOT, DRY, NETHER, WASTELAND]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:polar_chasm;MEDIUM;0.25;false;false;false;[COLD, DRY, NETHER, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:undergarden;WARM;2.0;false;false;false;[JUNGLE, HOT, LUSH, NETHER]
+[21:33:04] [Server thread/INFO] [harvestcraft]: biomesoplenty:visceral_heap;WARM;2.0;false;false;false;[HOT, NETHER, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:zollus;COLD;0.5;false;false;false;[COLD, DEAD, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:kriffon;WARM;0.5;false;false;false;[DEAD, HOT, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:purgotary;COLD;0.5;false;false;false;[DEAD, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:limbo;COLD;0.5;false;false;false;[SPOOKY, DEAD]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:green lands;MEDIUM;0.5;false;false;false;[LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:blood desert;WARM;0.5;false;false;false;[DEAD, HOT, DRY, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:rock mountains;WARM;0.5;false;false;false;[DEAD, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:terran valley;MEDIUM;0.5;false;false;false;[PLAINS, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:snowy plains;COLD;0.5;false;false;false;[COLD, PLAINS, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:golden meadow;MEDIUM;0.5;false;false;false;[LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:swamplands;MEDIUM;0.5;false;false;false;[SWAMP, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:edenwood forest;MEDIUM;0.5;false;false;false;[FOREST, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:the garden;MEDIUM;0.5;false;false;false;[PLAINS, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:asteroid craters;MEDIUM;0.5;false;false;false;[SPOOKY, DEAD, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:ocean of eden;OCEAN;0.5;false;false;false;[LUSH, OCEAN, WATER, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:abstract plains;MEDIUM;0.5;false;false;false;[PLAINS, LUSH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:xathius ocean;OCEAN;0.5;false;false;false;[LUSH, OCEAN, WATER, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:bluelands;MEDIUM;0.5;false;false;false;[MOUNTAIN, LUSH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:xathian mountains;MEDIUM;0.5;false;false;false;[DEAD, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:oasis plains;MEDIUM;0.5;false;false;false;[PLAINS, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:red sea;OCEAN;0.5;false;false;false;[LUSH, OCEAN, WATER, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:redlands;MEDIUM;0.5;false;false;false;[MOUNTAIN, LUSH]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:xantheon;COLD;0.5;false;false;false;[SPOOKY, COLD, DEAD, WASTELAND]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:candy mountain;MEDIUM;0.5;false;false;false;[MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:chocolate ocean;OCEAN;0.5;false;false;false;[OCEAN, WATER, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:jolly watermelon plains;MEDIUM;0.5;false;false;false;[PLAINS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:blueberry hills;COLD;0.5;false;false;false;[MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:cookie lands;COLD;0.5;false;false;false;[PLAINS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:golden constructs;WARM;0.5;false;false;false;[SPOOKY, DEAD, HOT, WASTELAND]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:radiolarian ocean;OCEAN;0.5;false;false;false;[SPOOKY, DEAD, HOT, OCEAN, WATER]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:lost desert;WARM;0.5;false;false;false;[DEAD, HOT, DRY, MOUNTAIN, WASTELAND]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:lost hallows;WARM;0.5;false;false;false;[DEAD, PLAINS, HOT, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:lost oasis;WARM;0.5;false;false;false;[PLAINS, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:fueltonium ocean;OCEAN;0.5;false;false;false;[SPOOKY, DEAD, HOT, OCEAN, WATER]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:lost mountains;WARM;0.5;false;false;false;[DEAD, MOUNTAIN]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:rocky isles;MEDIUM;0.5;false;false;false;[BEACH, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:sanctum beach;MEDIUM;0.5;false;false;false;[BEACH, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:the abyss;OCEAN;0.5;false;false;false;[OCEAN, WATER, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:rocky shore;MEDIUM;0.5;false;false;false;[MOUNTAIN, LUSH, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: mocreatures:wyvernbiome;MEDIUM;0.5;false;false;false;[END, FOREST]
+[21:33:04] [Server thread/INFO] [harvestcraft]: galacticraftcore:outer space;MEDIUM;0.5;false;false;false;[SPOOKY, DEAD, SPARSE, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: galacticraftplanets:outer space 1;WARM;4.0;false;false;false;[DEAD, SANDY, HOT, DRY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: galacticraftplanets:outer space 2;WARM;4.0;false;false;false;[DEAD, SANDY, HOT, DRY]
+[21:33:04] [Server thread/WARN] [FML]: No types have been added to Biome zollerngalaxy:outer space 3, types have been assigned on a best-effort guess: [PLAINS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:outer space 3;MEDIUM;0.5;false;false;false;[PLAINS]
+[21:33:04] [Server thread/WARN] [FML]: No types have been added to Biome zollerngalaxy:outer space 4, types have been assigned on a best-effort guess: [PLAINS, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:outer space 4;COLD;0.5;false;false;false;[PLAINS, SNOWY]
+[21:33:04] [Server thread/WARN] [FML]: No types have been added to Biome zollerngalaxy:outer space 5, types have been assigned on a best-effort guess: [PLAINS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:outer space 5;MEDIUM;0.5;false;false;false;[PLAINS]
+[21:33:04] [Server thread/WARN] [FML]: No types have been added to Biome zollerngalaxy:outer space 6, types have been assigned on a best-effort guess: [PLAINS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:outer space 6;MEDIUM;0.5;false;false;false;[PLAINS]
+[21:33:04] [Server thread/WARN] [FML]: No types have been added to Biome zollerngalaxy:outer space 7, types have been assigned on a best-effort guess: [PLAINS, SNOWY]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:outer space 7;MEDIUM;0.5;false;false;false;[PLAINS, SNOWY]
+[21:33:04] [Server thread/WARN] [FML]: No types have been added to Biome zollerngalaxy:outer space 8, types have been assigned on a best-effort guess: [PLAINS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:outer space 8;MEDIUM;0.5;false;false;false;[PLAINS]
+[21:33:04] [Server thread/WARN] [FML]: No types have been added to Biome zollerngalaxy:outer space 9, types have been assigned on a best-effort guess: [PLAINS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:outer space 9;MEDIUM;0.5;false;false;false;[PLAINS]
+[21:33:04] [Server thread/WARN] [FML]: No types have been added to Biome zollerngalaxy:outer space 10, types have been assigned on a best-effort guess: [PLAINS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: zollerngalaxy:outer space 10;OCEAN;0.5;false;false;false;[PLAINS]
+[21:33:04] [Server thread/INFO] [harvestcraft]: extraplanets:outer space 11;MEDIUM;0.8;true;false;false;[COLD, DEAD, WASTELAND, WET]
+[21:33:04] [Server thread/INFO] [harvestcraft]: extraplanets:outer space 12;MEDIUM;0.5;false;false;false;[COLD, DEAD, FOREST]
+[21:33:04] [Server thread/INFO] [harvestcraft]: Registering drops for shadedGarden.
+[21:33:04] [Server thread/INFO] [harvestcraft]: Registering drops for tropicalGarden.
+[21:33:04] [Server thread/INFO] [harvestcraft]: Registering drops for windyGarden.
+[21:33:04] [Server thread/INFO] [harvestcraft]: Registering drops for frostGarden.
+[21:33:04] [Server thread/INFO] [harvestcraft]: Registering drops for aridGarden.
+[21:33:04] [Server thread/INFO] [harvestcraft]: Registering drops for soggyGarden.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamapiary`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pammarket`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamshippingbin`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pampresser`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamgroundtrap`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamwatertrap`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamwaterfilter`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `pamgrinder`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[21:33:04] [Server thread/INFO] [FML]: Injecting itemstacks
+[21:33:04] [Server thread/INFO] [FML]: Itemstack injection complete
+[21:33:04] [Server thread/ERROR] [Galacticraft]: Tried to register dimension for body: planet.Uranus hit conflict with ID -17
+[21:33:04] [Server thread/INFO] [Galacticraft]: Galacticraft: activating Biomes O'Plenty compatibility feature.
+[21:33:04] [Server thread/INFO] [Zollern Galaxy]: Beginning Post-Initialization phase...
+[21:33:04] [Server thread/INFO] [Zollern Galaxy]: Post-Init phase complete.
+[21:33:04] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up ExtremeReactors Compatibility, this is most likey intended!
+[21:33:04] [Server thread/WARN] [com.mjr.mjrlegendslib.util.MessageUtilities]: extraplanets: An error occurred when setting up MCMultiPart Compatibility, this is most likey intended!
+[21:33:04] [Server thread/INFO] [iChunUtil]: =============================================================
+[21:33:04] [Server thread/INFO] [iChunUtil]: By using iChunUtil you therefore agree to the EULA of the mod. It may be found in the jar file of the mod. The latest version will be available on iChun's website or on GitHub.
+[21:33:04] [Server thread/INFO] [iChunUtil]: You can disable this console message by going to the iChunUtil config and setting the "eulaAcknowledged" config to "true" (no quotes).
+[21:33:04] [Server thread/INFO] [iChunUtil]: =============================================================
+[21:33:04] [Server thread/INFO] [levelup2.LevelUp2]: [Level Up 2] Mod initialized!
+[21:33:04] [Server thread/INFO] [Treecapitator]: Prioritizing User and IMC mod configs...
+[21:33:04] [Server thread/INFO] [Treecapitator]: Registering items and trees...
+[21:33:04] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 22 mods
+[21:33:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "Starborne Bizarre Adventures"
+[21:33:04] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[21:33:05] [Server thread/INFO] [FML]: Applying holder lookups
+[21:33:05] [Server thread/INFO] [FML]: Holder lookups applied
+[21:33:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[21:33:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[21:33:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:88]: ChunkGeneratorOverworldBOP json: 
+[21:33:05] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:95]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generateBopSoils":true,"generateBopTrees":true,"generateBopGrasses":true,"generateBopFoliage":true,"generateBopFlowers":true,"generateBopPlants":true,"generateBopWaterPlants":true,"generateBopMushrooms":true,"generateRockFormations":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[21:33:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.monster.EntityZombie from class com.mjr.extraplanets.entities.bosses.EntityEvolvedGiantZombieBoss
+[21:33:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[21:33:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[21:33:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[21:33:05] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.EntityCreature from class drzhark.mocreatures.entity.MoCEntityMob
+[21:33:05] [iChunUtil Online Resource Thread/WARN] [iChunUtil]: Error retrieving mods versions list: UnknownHostException. Is your internet connection working?
+[21:33:06] [Server thread/INFO] [FML]: Loading dimension 0 (Starborne Bizarre Adventures) (net.minecraft.server.dedicated.DedicatedServer@32c05d57)
+[21:33:07] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 719 advancements
+[21:33:07] [Server thread/INFO] [FML]: Loading dimension 1 (Starborne Bizarre Adventures) (net.minecraft.server.dedicated.DedicatedServer@32c05d57)
+[21:33:07] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:26]: settings for hell world: 
+[21:33:08] [Server thread/INFO] [FML]: Loading dimension -1 (Starborne Bizarre Adventures) (net.minecraft.server.dedicated.DedicatedServer@32c05d57)
+[21:33:09] [Server thread/INFO] [FML]: Loading dimension -17 (Starborne Bizarre Adventures) (net.minecraft.server.dedicated.DedicatedServer@32c05d57)
+[21:33:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[21:33:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:ant that already exists with UUID 1ced64a4-c1fa-47b7-8e06-52304a95660f
+[21:33:10] [Server thread/WARN] [net.minecraft.world.WorldServer]: Keeping entity mocreatures:fly that already exists with UUID 60e24c59-42a2-4bdc-bf23-08bbe58b8d9f
+[21:33:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (6.173s)! For help, type "help" or "?"
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7878
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -30
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7998
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7777
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -20
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7996
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -21
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -15
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -22
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7994
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -29
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -13
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -18
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7990
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7979
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -19
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7988
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -16
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -31
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7984
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7983
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -7982
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1505
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1503
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1501
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1506
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1511
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1500
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -28
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1509
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1502
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1507
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1508
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1510
+[21:33:11] [Server thread/INFO] [Galacticraft]: Registered Dimension: -1504
+[21:33:11] [Server thread/INFO] [FML]: Unloading dimension 1
+[21:33:11] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:33:11] [Server thread/INFO] [FML]: Unloading dimension -17
+[21:33:12] [Thread-5/INFO] [Galacticraft]: Galacticraft remote version found: 4.0.2
+[21:33:51] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Skywar1539 is 83f51f6b-6ac4-40ea-8c2e-4ae8e5834877
+[21:33:51] [Netty Server IO #2/INFO] [FML]: Client protocol version 2
+[21:33:51] [Netty Server IO #2/INFO] [FML]: Client attempting to join with 23 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,levelup2@${version},FML@8.0.99.99,extraplanets@1.12.2-0.7.3,harvestcraft@1.12.2zb,biomesoplenty@7.0.1.2297,bspkrscore@at_0.9,backtools@7.0.0,ichunutil@7.2.1,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,customspawner@3.11.4,doggytalents@1.15.1.4,zollerngalaxy@2.0.13,forge@14.23.5.2854,backpack@3.0.2,mocreatures@12.0.5,mcp@9.42,treecapitator@at_0.9,birdsnests@2.1.0,sit@v1.1.2
+[21:33:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:33:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Skywar1539[/127.0.0.1:49363] logged in with entity id 2574 at (107.30000001192093, 65.0, -74.43610319888452)
+[21:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Skywar1539 joined the game
+[21:35:01] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player MO_QI_JIN is 29231bfa-74fc-4c45-9d9a-deb2bb7dbd3f
+[21:35:03] [Netty Server IO #7/INFO] [FML]: Client protocol version 2
+[21:35:03] [Netty Server IO #7/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,levelup2@${version},FML@8.0.99.99,extraplanets@1.12.2-0.7.3,harvestcraft@1.12.2zb,biomesoplenty@7.0.1.2297,bspkrscore@at_0.9,backtools@7.0.0,jei@4.16.1.301,ichunutil@7.2.1,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,customspawner@3.11.4,doggytalents@1.15.1.4,zollerngalaxy@2.0.13,forge@14.23.5.2855,backpack@3.0.2,mocreatures@12.0.5,mcp@9.42,treecapitator@at_0.9,birdsnests@2.1.0,sit@v1.1.2
+[21:35:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:35:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MO_QI_JIN[/0:0:0:0:0:0:0:1:49419] logged in with entity id 2841 at (87.73594898981449, 67.0, -69.33063583378144)
+[21:35:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MO_QI_JIN joined the game
+[21:35:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MO_QI_JIN> ...
+[21:36:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MO_QI_JIN> 0...
+[21:36:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MO_QI_JIN> ..
+[21:36:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MO_QI_JIN> ...
+[21:37:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MO_QI_JIN> ...
+[21:37:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MO_QI_JIN> ....
+[21:37:33] [Netty Server IO #7/ERROR] [FML]: NetworkDispatcher exception
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method) ~[?:1.8.0_291]
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source) ~[?:1.8.0_291]
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source) ~[?:1.8.0_291]
+	at sun.nio.ch.IOUtil.read(Unknown Source) ~[?:1.8.0_291]
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source) ~[?:1.8.0_291]
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288) ~[PooledUnsafeDirectByteBuf.class:?]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100) ~[AbstractByteBuf.class:?]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:372) ~[NioSocketChannel.class:?]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123) [AbstractNioByteChannel$NioByteUnsafe.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:624) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:559) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:476) [NioEventLoop.class:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438) [NioEventLoop.class:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858) [SingleThreadEventExecutor$5.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_291]
+[21:37:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MO_QI_JIN lost connection: Internal Exception: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+[21:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MO_QI_JIN left the game
+[21:38:02] [User Authenticator #3/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player MO_QI_JIN is 29231bfa-74fc-4c45-9d9a-deb2bb7dbd3f
+[21:38:03] [Netty Server IO #12/INFO] [FML]: Client protocol version 2
+[21:38:03] [Netty Server IO #12/INFO] [FML]: Client attempting to join with 24 mods : minecraft@1.12.2,galacticraftcore@4.0.2.280,levelup2@${version},FML@8.0.99.99,extraplanets@1.12.2-0.7.3,harvestcraft@1.12.2zb,biomesoplenty@7.0.1.2297,bspkrscore@at_0.9,backtools@7.0.0,jei@4.16.1.301,ichunutil@7.2.1,galacticraftplanets@4.0.2.280,micdoodlecore@,mjrlegendslib@1.12.2-1.2.1,customspawner@3.11.4,doggytalents@1.15.1.4,zollerngalaxy@2.0.13,forge@14.23.5.2855,backpack@3.0.2,mocreatures@12.0.5,mcp@9.42,treecapitator@at_0.9,birdsnests@2.1.0,sit@v1.1.2
+[21:38:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:38:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MO_QI_JIN[/0:0:0:0:0:0:0:1:49487] logged in with entity id 3779 at (60.33225596555141, 70.0, -9.106913939806184)
+[21:38:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MO_QI_JIN joined the game
+[21:39:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MO_QI_JIN lost connection: Timed out
+[21:39:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MO_QI_JIN left the game
+[21:51:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Skywar1539 lost connection: Disconnected
+[21:51:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Skywar1539 left the game

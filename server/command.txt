@@ -1,0 +1,4 @@
+/fill ~ ~ ~ ~5 ~5 ~5 minecraft:tnt
+/bop tpbiome 50
+/time add 1000
+/kill @e[r=2]

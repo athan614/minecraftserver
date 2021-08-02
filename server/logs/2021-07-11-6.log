@@ -1,0 +1,74 @@
+[22:54:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:54:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:54:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:54:31] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[22:54:31] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_291, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_291
+[22:54:31] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[22:54:31] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[22:54:31] [main/INFO] [FML]: Searching C:\Users\Myth~Skywar1539\Desktop\server\.\mods for mods
+[22:54:31] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_E3.jar
+[22:54:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:54:31] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[22:54:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:54:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:54:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:54:31] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[22:54:31] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[22:54:31] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[22:54:31] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:54:32] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[22:54:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:54:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:54:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:54:32] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:54:32] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[22:54:33] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:54:35] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2847 Initialized
+[22:54:35] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:54:35] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:54:35] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:54:35] [Server thread/INFO] [FML]: Searching C:\Users\Myth~Skywar1539\Desktop\server\.\mods for mods
+[22:54:35] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[22:54:35] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:54:35] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[22:54:35] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[22:54:35] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:54:35] [Server thread/INFO] [FML]: Found 1169 ObjectHolder annotations
+[22:54:35] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:54:35] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:54:35] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:54:35] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:54:35] [Server thread/INFO] [FML]: Applying holder lookups
+[22:54:35] [Server thread/INFO] [FML]: Holder lookups applied
+[22:54:35] [Server thread/INFO] [FML]: Applying holder lookups
+[22:54:35] [Server thread/INFO] [FML]: Holder lookups applied
+[22:54:35] [Server thread/INFO] [FML]: Applying holder lookups
+[22:54:35] [Server thread/INFO] [FML]: Holder lookups applied
+[22:54:35] [Server thread/INFO] [FML]: Applying holder lookups
+[22:54:35] [Server thread/INFO] [FML]: Holder lookups applied
+[22:54:35] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:54:35] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:54:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:54:35] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[22:54:36] [Server thread/INFO] [FML]: Applying holder lookups
+[22:54:36] [Server thread/INFO] [FML]: Holder lookups applied
+[22:54:36] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:54:36] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:54:36] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[22:54:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "Starborne Extreme"
+[22:54:36] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:54:36] [Server thread/INFO] [FML]: Applying holder lookups
+[22:54:36] [Server thread/INFO] [FML]: Holder lookups applied
+[22:54:36] [Server thread/INFO] [FML]: Loading dimension 0 (Starborne Extreme) (net.minecraft.server.dedicated.DedicatedServer@745d9fa4)
+[22:54:36] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[22:54:36] [Server thread/INFO] [FML]: Loading dimension -1 (Starborne Extreme) (net.minecraft.server.dedicated.DedicatedServer@745d9fa4)
+[22:54:36] [Server thread/INFO] [FML]: Loading dimension 1 (Starborne Extreme) (net.minecraft.server.dedicated.DedicatedServer@745d9fa4)
+[22:54:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:54:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.318s)! For help, type "help" or "?"
+[22:54:37] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:54:37] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:54:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2855
