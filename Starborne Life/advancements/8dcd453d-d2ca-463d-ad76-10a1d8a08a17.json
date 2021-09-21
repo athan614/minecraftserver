@@ -1,0 +1,39 @@
+{
+  "twilightforest:alt/treasures/tools": {
+    "criteria": {
+      "4": "2020-04-17 06:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-04-17 07:14:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "boots": "2020-04-17 06:55:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "4": "2020-04-17 06:55:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_tool_set": {
+    "criteria": {
+      "axe": "2020-04-17 06:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2020-04-17 06:55:41 +0000",
+      "river": "2020-04-17 06:55:49 +0000"
+    },
+    "done": false
+  }
+}
