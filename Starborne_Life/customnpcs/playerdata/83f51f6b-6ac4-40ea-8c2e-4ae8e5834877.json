@@ -1,0 +1,35 @@
+{
+    "ItemGiverChained": [
+    ],
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+        {
+            "Long": 97L,
+            "Slot": 1
+        }
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Skywar1539",
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "UUID": "83f51f6b-6ac4-40ea-8c2e-4ae8e5834877",
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ]
+}
