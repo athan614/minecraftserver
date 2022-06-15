@@ -1,0 +1,57 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        },
+        {
+            "Points": 0,
+            "Faction": 2
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+        {
+            "Long": 1654149896340L,
+            "Slot": 1
+        },
+        {
+            "Long": 1654150010138L,
+            "Slot": 3
+        },
+        {
+            "Long": 1654150034389L,
+            "Slot": 4
+        },
+        {
+            "Long": 1654178992886L,
+            "Slot": 5
+        },
+        {
+            "Long": 765L,
+            "Slot": 6
+        }
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Skywar1539",
+    "UUID": "83f51f6b-6ac4-40ea-8c2e-4ae8e5834877",
+    "ScriptStoreddata": {
+    }
+}
