@@ -1,0 +1,16 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2021-12-12 11:38:47 +0000",
+      "minecraft:plains": "2021-12-12 11:36:58 +0000"
+    },
+    "done": false
+  },
+  "mca:root": {
+    "criteria": {
+      "beginning_village": "2021-12-12 11:38:53 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
